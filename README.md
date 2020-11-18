@@ -1,2 +1,2 @@
-# fuenfliber
-This repository hosts the open-source Fünfliber-Drone design.
+# Fünfliber
+This repository is a place-holder for the open-source Fünfliber-Drone design.
